@@ -1,6 +1,6 @@
 # ContosoUniversity and sample azure ad login application
 
-** Before running solutions **
+** Before running solutions ** <br />
 Make sure the vm's are having applicationstatus monitor installed
 # ContosoUniversity
  Please update the connectionstring in web.config and instumentation Key in ApplicationInsights.config
